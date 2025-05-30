@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Website Tuyển Dụng Free</title>
+  <style>
+    body { font-family: Arial; padding: 20px; background: #f9f9f9; }
+    h1 { color: #333; }
+    .job-card { background: white; padding: 15px; margin-bottom: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    .apply-btn { background: #007bff; color: white; padding: 10px; text-decoration: none; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <h1>🎯 Việc Làm Hot Hôm Nay</h1>
+
+  <div class="job-card">
+    <h2>📌 Tuyển Nhân Viên Kinh Doanh</h2>
+    <p>Lương: 10-15 triệu | Địa điểm: HCM | Fulltime</p>
+    <a class="apply-btn" href="https://forms.gle/xyz123" target="_blank">Nộp CV</a>
+  </div>
+
+  <div class="job-card">
+    <h2>📌 Tuyển Lập Trình Viên ReactJS</h2>
+    <p>Lương: 15-25 triệu | Remote | Fulltime</p>
+    <a class="apply-btn" href="https://forms.gle/abc456" target="_blank">Nộp CV</a>
+  </div>
+
+  <footer>
+    <p>© 2025 Công ty Tuyển Dụng Free. Made with ❤️</p>
+  </footer>
+</body>
+</html>
